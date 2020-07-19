@@ -1,1 +1,3 @@
 # Socket-Programming
+
+Distance Vector Routing or DVR for short is a routing algorithm used to find the shortest/best route for data packets to traverse based on distance. There are a lot of factors involved in DVR such as cost, latency, and availability of routers but in this project, we will be focusing on cost. The term distance vector refers to the fact that the protocol manipulates vectors, arrays of distances to other nodes in the network. The distance vector algorithm was the original ARPANET routing algorithm and was implemented more widely in LANs with the Routing Information Protocol (RIP).
